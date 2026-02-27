@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ADMIN_AINI</title>
+    <title>AINI ADMIN</title>
     <meta name="author" content="Yasser Elgammal">
     <meta name="description" content="Admin panel for managing blog content and settings.">
     <!-- Tailwind -->
@@ -141,9 +141,8 @@
 
         <!-- Footer -->
         <footer class="fixed bottom-0 left-0 sm:left-64 right-0 bg-white text-right p-4 border-t z-30">
-            ControlPanel by <a target="_blank" href="https://davidgrzyb.com" class="underline">David Grzyb</a> |
-            Developed by <a target="_blank" href="https://yasserelgammal.github.io" class="underline">Yasser
-                Elgammal</a>.
+            ControlPanel by <a target="_blank" href="https://davidgrzyb.com" class="underline">Nur'aini Eka Jannah</a> |
+            Developed by <a target="_blank" href="https://yasserelgammal.github.io" class="underline">Nur'aini Eka Jannah</a>.
         </footer>
 
     </div>
